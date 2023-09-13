@@ -13,8 +13,9 @@
 function greet(name, selector) {
     const queryStr = window.location.search;
     name = new URLSearchParams(queryStr);
+    name = name.get('name') || 'student';
     let greetElement = document.querySelector(selector);
-    greetElement.innerText = `Hello, ${name.get('name')}`;
+    greetElement.innerText = `Hello ${name}`;
 }
 
 
@@ -51,14 +52,15 @@ function printNumberInfo(number, selector) {
     let msg = '';
     const queryStr = window.location.search;
     number = new URLSearchParams(queryStr);
+    number = number.get('number') || '330';
     let numberInfoElement = document.querySelector(selector);
-    if (isPrime(number.get('number'))) {
-        msg = ' is prime!';
+    if (isPrime(number)) {
+        msg = ' is a prime number';
     }
     else {
-        msg = ' is not prime.';
+        msg = ' is not a prime number';
     }
-    numberInfoElement.innerText = `${number.get('number')}` + msg;
+    numberInfoElement.innerText = `${number}` + msg;
 }
 
 
@@ -95,16 +97,17 @@ function getNPrimes(number) {
 function printNPrimes(number, selector) {
     const queryStr = window.location.search;
     number = new URLSearchParams(queryStr);
+    number = number.get('number') || '330';
     let printNPrimesElement = document.querySelector(selector);
-    let primes = getNPrimes(number.get('number'));
+    let tbody = printNPrimesElement.querySelector('tbody');
+    let primes = getNPrimes(number);
     let text = '';
     primes.forEach(num => {
         const row = document.createElement('tr');
-        //row.classList.add('table-dark');
         const cell = document.createElement('td');
         cell.textContent = num;
         row.appendChild(cell);
-        printNPrimesElement.appendChild(row);
+        tbody.appendChild(row);
     });
 }
 
@@ -115,13 +118,18 @@ function printNPrimes(number, selector) {
  * @param {Object} urlParams URL parameters
  * @param {string} selector element to use for display
  */
-function displayWarnings(urlParams, selector) {}
+function displayWarnings(urlParams, selector) {
+    let warningsElement = document.querySelector(selector);
+    if (!urlParams) {
+        warningsElement.innerText = 'Warning: Missing some URL query parameter.';
+    }
+}
 
 window.onload = function () {
-    // TODO: Initialize the following variables
-    let urlParams = "";
-    let name = "";
-    let number = "";
+    let urlParams = "?name=student&number=330";
+    let name = "student";
+    let number = "330";
+    console.log('loaded');
     this.displayWarnings(urlParams, "#warnings");
     greet(name, "#greeting");
     printNumberInfo(number, "#numberInfo");
