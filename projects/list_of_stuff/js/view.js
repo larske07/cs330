@@ -9,6 +9,7 @@ class MachinesView {
     }
 
     redrawView(machines, msg) {
+        console.log("Redrawing view");
         let tblBody = document.querySelector("#tbl_machines > tbody");
         tblBody.innerHTML = '';
 

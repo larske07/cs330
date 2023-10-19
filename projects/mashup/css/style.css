@@ -1,0 +1,143 @@
+:root {
+    /* --teal-primary: #D9D9D9;
+    --charcoal-black: #F76F73;
+    --light-charcoal: #F76F73;
+    --light-gold: #F2E2A0; */
+
+    --main: #231F20;
+    --second: #008080;
+    /* --second: #477547; */
+    --accent: #7EBDC2;
+
+}
+
+@font-face {
+    font-family: MontHeavy;
+    src: url(/static/fonts/Mont-HeavyDEMO.otf) format("opentype");
+}
+
+@font-face {
+    font-family: MontLight;
+    src: url(/static/fonts/Mont-ExtraLightDEMO.otf) format("opentype");
+}
+
+.font-Mont-Heavy {
+    font-family: "MontHeavy";
+}
+
+.font-Mont-Light {
+    font-family: "MontLight";
+}
+
+.main-bg {
+    background-color: var(--main);
+}
+.second-bg {
+    background-color: var(--second);
+}
+.accent-bg {
+    background-color: var(--accent);
+}
+
+.font-main {
+    color: var(--main);
+}
+.font-second {
+    color: var(--second);
+}
+.font-accent {
+    color: var(--accent);
+}
+
+.btn-second {
+    background-color: var(--second) !important;
+}
+
+.btn-white {
+    background-color: white !important;
+    color: var(--second) !important;
+}
+
+.search-box {
+    background-color: var(--main);
+    color: white;
+    padding: 5px;
+    border: 3px solid white;
+}
+
+.spider-web-cover {
+    background-image: url('/static/images/spider-web-svgrepo-com.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.spider {
+    display: grid;
+    place-items: center;
+    position: relative;
+    left: -50px;
+}
+
+#eyes, #eyes img {
+    position: absolute;
+}
+
+.font-size-25 {
+    font-size: 25px;
+}
+.font-size-50 {
+    font-size: 50px;
+}
+.font-size-75 {
+    font-size: 75px;
+}
+.font-size-100 {
+    font-size: 100px;
+}
+.font-size-125 {
+    font-size: 125px;
+}
+  
+  
+#schoolOptions option {
+    max-height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; 
+    background-color: aquamarine;
+    color: yellow;
+}
+
+.image {
+    position: relative;
+    width: 300px;
+  }
+  
+  .overlay {
+    position: absolute;
+    border-radius: 10px 10px 0px 0px;
+    bottom: 0;
+    width: 100%;
+    word-wrap: break-word;
+    right: 0;
+    background: rgba(0,0,0,0.5); 
+    color: #fff;
+    padding: 10px;
+  }
+
+/* .font-charcoal-light {
+    color: var(--light-charcoal);
+}
+
+.font-charcoal-dark {
+    color: var(--charcoal-black);
+}
+
+.font-teal {
+    color: var(--teal-primary);
+}
+
+.font-light-gold {
+    color: var(--light-gold)
+} */
