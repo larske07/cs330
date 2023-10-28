@@ -1,4 +1,32 @@
 {% extends "base.html" %}
+
 {% block content %}
-<!-- TODO: Add jokes here -->
+
+<h1 class="bp">Jokes</h1>
+
+<p>
+  {% if jokes|length == 1 %}
+    1 joke
+  {% else %}
+    {{ number }} jokes
+  {% endif %}
+</p>
+
+<p>Category: {{ category }}</p>
+
+<p>Language: {{ language }}</p>
+
+<ul>
+  {% for joke in jokes[:number] %}
+    {% if joke == -1 %}
+      No jokes available
+    {% else %}
+        <li>
+        <span class="number">{{ loop.index }}</span> 
+        {{ joke }}
+        </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 {% endblock %}

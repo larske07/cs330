@@ -1,0 +1,21 @@
+header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px; 
+  }
+  
+  .btn-joke {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  .bp {
+    padding: 2px;
+    color: #ff01ee;
+  }
+  .number {
+    font-weight: bold; 
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
