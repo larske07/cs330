@@ -1,0 +1,2284 @@
+[33mcommit 42206a19219294dbaba6c95da415e697a2f81bfe[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Keagan Larson <larske07@luther.edu>
+Date:   Sun Sep 3 13:15:50 2023 -0500
+
+    Finish project 0
+
+[33mcommit 381b9159c7ff5984fffe10f104c8ca7332c2313b[m[33m ([m[1;31mpub/main[m[33m)[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Aug 31 10:50:45 2023 -0500
+
+    Clean up
+
+[33mcommit 211532e0966719ef72413ed289faf5fa84d1355e[m
+Merge: efe21a9 ab47a4d
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Thu Aug 24 11:10:30 2023 -0500
+
+    Merge pull request #15 from LutherCS/dependabot/pip/requests-2.31.0
+    
+    Bump requests from 2.28.1 to 2.31.0
+
+[33mcommit efe21a91c22fe0f8dd5ebe265ffec7af21ef4583[m
+Merge: c47eee6 49186da
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Thu Aug 24 11:10:20 2023 -0500
+
+    Merge pull request #14 from LutherCS/dependabot/pip/certifi-2023.7.22
+    
+    Bump certifi from 2022.12.7 to 2023.7.22
+
+[33mcommit c47eee6de3309a87dc3c12e5373e0e977e10407d[m
+Merge: cf4067f 2c29450
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Thu Aug 24 11:10:05 2023 -0500
+
+    Merge pull request #13 from LutherCS/dependabot/pip/flask-2.2.5
+    
+    Bump flask from 2.2.2 to 2.2.5
+
+[33mcommit cf4067f093e9cb47f380ac9482fdadc796a927fa[m
+Merge: 934cdc5 01f4627
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Thu Aug 24 11:09:43 2023 -0500
+
+    Merge pull request #12 from LutherCS/dependabot/pip/pygments-2.15.0
+    
+    Bump pygments from 2.13.0 to 2.15.0
+
+[33mcommit 934cdc5837b5da94d3356a347f62efb86573c606[m
+Merge: 08d642f 25374cc
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Thu Aug 24 11:09:33 2023 -0500
+
+    Merge pull request #11 from LutherCS/dependabot/pip/notes/day9_deployment/flask-2.2.5
+    
+    Bump flask from 1.1.1 to 2.2.5 in /notes/day9_deployment
+
+[33mcommit 08d642fe5d38b78f6610ed21f2625c8c1b6dba3a[m
+Merge: c7808ac 1a0414c
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Thu Aug 24 11:09:22 2023 -0500
+
+    Merge pull request #10 from LutherCS/dependabot/pip/werkzeug-2.2.3
+    
+    Bump werkzeug from 2.2.2 to 2.2.3
+
+[33mcommit c7808ac6ad238186d699a1bdeb1a5ceabdee4197[m
+Merge: ac5b685 bf60d0b
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Thu Aug 24 11:08:48 2023 -0500
+
+    Merge pull request #9 from LutherCS/dependabot/pip/notes/day9_deployment/werkzeug-2.2.3
+    
+    Bump werkzeug from 0.16.0 to 2.2.3 in /notes/day9_deployment
+
+[33mcommit ab47a4db3bf023b65734c68a6911b40c1f5705d3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Aug 24 16:08:44 2023 +0000
+
+    Bump requests from 2.28.1 to 2.31.0
+    
+    Bumps [requests](https://github.com/psf/requests) from 2.28.1 to 2.31.0.
+    - [Release notes](https://github.com/psf/requests/releases)
+    - [Changelog](https://github.com/psf/requests/blob/main/HISTORY.md)
+    - [Commits](https://github.com/psf/requests/compare/v2.28.1...v2.31.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: requests
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 49186da2a1c77c184a49f6a68c55a1053c750b77[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Aug 24 16:08:43 2023 +0000
+
+    Bump certifi from 2022.12.7 to 2023.7.22
+    
+    Bumps [certifi](https://github.com/certifi/python-certifi) from 2022.12.7 to 2023.7.22.
+    - [Commits](https://github.com/certifi/python-certifi/compare/2022.12.07...2023.07.22)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: certifi
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2c29450c725c505bc3b5800dbef5e8f0ea5f53b5[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Aug 24 16:08:41 2023 +0000
+
+    Bump flask from 2.2.2 to 2.2.5
+    
+    Bumps [flask](https://github.com/pallets/flask) from 2.2.2 to 2.2.5.
+    - [Release notes](https://github.com/pallets/flask/releases)
+    - [Changelog](https://github.com/pallets/flask/blob/main/CHANGES.rst)
+    - [Commits](https://github.com/pallets/flask/compare/2.2.2...2.2.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: flask
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 01f4627e3d27873cef44f389cf894cc54566dc7f[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Aug 24 16:08:40 2023 +0000
+
+    Bump pygments from 2.13.0 to 2.15.0
+    
+    Bumps [pygments](https://github.com/pygments/pygments) from 2.13.0 to 2.15.0.
+    - [Release notes](https://github.com/pygments/pygments/releases)
+    - [Changelog](https://github.com/pygments/pygments/blob/master/CHANGES)
+    - [Commits](https://github.com/pygments/pygments/compare/2.13.0...2.15.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: pygments
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 25374ccd2d0423249cf3df3e3e2607a002465e75[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Aug 24 16:08:32 2023 +0000
+
+    Bump flask from 1.1.1 to 2.2.5 in /notes/day9_deployment
+    
+    Bumps [flask](https://github.com/pallets/flask) from 1.1.1 to 2.2.5.
+    - [Release notes](https://github.com/pallets/flask/releases)
+    - [Changelog](https://github.com/pallets/flask/blob/main/CHANGES.rst)
+    - [Commits](https://github.com/pallets/flask/compare/1.1.1...2.2.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: flask
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit ac5b685a1c35e3fcfa775c15c4fe79b5f910e6c5[m
+Merge: 1b2cbe7 89db506
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Thu Aug 24 11:08:02 2023 -0500
+
+    Merge pull request #8 from LutherCS/dependabot/pip/certifi-2022.12.7
+    
+    Bump certifi from 2022.6.15 to 2022.12.7
+
+[33mcommit 1a0414c48318e32ab6a6a2578d8a016ccdac7906[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Feb 16 06:37:06 2023 +0000
+
+    Bump werkzeug from 2.2.2 to 2.2.3
+    
+    Bumps [werkzeug](https://github.com/pallets/werkzeug) from 2.2.2 to 2.2.3.
+    - [Release notes](https://github.com/pallets/werkzeug/releases)
+    - [Changelog](https://github.com/pallets/werkzeug/blob/main/CHANGES.rst)
+    - [Commits](https://github.com/pallets/werkzeug/compare/2.2.2...2.2.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: werkzeug
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit bf60d0b76bf4803643300f6930070300f93b8d6a[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Feb 15 23:24:07 2023 +0000
+
+    Bump werkzeug from 0.16.0 to 2.2.3 in /notes/day9_deployment
+    
+    Bumps [werkzeug](https://github.com/pallets/werkzeug) from 0.16.0 to 2.2.3.
+    - [Release notes](https://github.com/pallets/werkzeug/releases)
+    - [Changelog](https://github.com/pallets/werkzeug/blob/main/CHANGES.rst)
+    - [Commits](https://github.com/pallets/werkzeug/compare/0.16.0...2.2.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: werkzeug
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 89db506730a498cde9f5ff0d9101c6b8c6fd552e[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Dec 9 07:40:38 2022 +0000
+
+    Bump certifi from 2022.6.15 to 2022.12.7
+    
+    Bumps [certifi](https://github.com/certifi/python-certifi) from 2022.6.15 to 2022.12.7.
+    - [Release notes](https://github.com/certifi/python-certifi/releases)
+    - [Commits](https://github.com/certifi/python-certifi/compare/2022.06.15...2022.12.07)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: certifi
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 1b2cbe7817a5ebb1e9965c6fde63d3437150a121[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Nov 22 13:48:24 2022 -0600
+
+    Update requirements
+
+[33mcommit baed9480887b8591d6ba960cd5e687300fcc0dae[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Nov 17 12:47:39 2022 -0600
+
+    Update models
+
+[33mcommit b3012fd9f28e0765ac2f893077b0f30a684a229b[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Nov 15 12:25:38 2022 -0600
+
+    Update store description
+
+[33mcommit 6809d683e543e4e7a727605aace49f8d35292267[m
+Merge: 2d24d03 7e740e9
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Thu Nov 10 13:59:03 2022 -0600
+
+    Merge pull request #7 from mertad01/main
+    
+    Fix path for "geo_back" test
+
+[33mcommit 2d24d03f7a63bb1a3c3d8ca10f17693e082fa484[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Nov 10 13:56:57 2022 -0600
+
+    Add requests functionality
+
+[33mcommit 66a1ea5608ae5117b8e69da41ac8707aafe638e9[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Nov 10 13:27:44 2022 -0600
+
+    Update CRUD example
+
+[33mcommit 7e740e9326a3786caa59fd8f142ddf0b83194b14[m
+Author: Adam Mertzenich <54077405+mertad01@users.noreply.github.com>
+Date:   Thu Nov 10 13:04:19 2022 -0600
+
+    Update test_geo_back.py
+    
+    Fixes the path
+
+[33mcommit e45583e7721c69e0768ae8d4146c5f9be0fa9866[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Nov 8 19:43:25 2022 -0600
+
+    Start CRUD example
+
+[33mcommit 5b77a2aeb8e7d258bf467550226247c3d681dcbf[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Nov 3 14:23:44 2022 -0500
+
+    Update BGRK example
+
+[33mcommit 8d4fd5e1fc71a4533c21cce7db63d60954146f1b[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Nov 1 14:17:32 2022 -0500
+
+    Update BGRK example
+
+[33mcommit 2453901d915889b3a53c9f9bcccbc1038ca065d0[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Oct 27 19:21:12 2022 -0500
+
+    Update jokes tests
+
+[33mcommit 1d7dab982365dfa205af5ae1aa6227ddb2ab850b[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Oct 27 15:41:31 2022 -0500
+
+    Add in-class example
+
+[33mcommit 49d6dfc48a10afb5f35e0cfaf96b4d6d55a6e027[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Oct 25 14:24:04 2022 -0500
+
+    Add flask example
+
+[33mcommit c262fc7e8825030a92e39469acc19d4f5e307b8b[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Oct 4 14:03:21 2022 -0500
+
+    Use fetch to get game age recommendation
+
+[33mcommit e5a5da2c4787ee489ac7e8cabc91f60e05262a51[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Wed Sep 28 08:55:21 2022 -0500
+
+    Use local storage
+
+[33mcommit a866975efe12bdd73b49b29e78a90acefca1fc92[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Sep 22 15:28:22 2022 -0500
+
+    Clean up
+
+[33mcommit 4b65df8092bdb733b68b32d09e9d071c20515ae3[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Sep 22 15:27:52 2022 -0500
+
+    Use MVC
+
+[33mcommit 803d1ed0bc685f01c014f075a6f54ebd62d7e30d[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Sep 22 12:54:37 2022 -0500
+
+    Add more options
+
+[33mcommit 9708698d4ca7e2e26c3873c002e2ebcf82e38f7c[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Sep 20 15:04:44 2022 -0500
+
+    Add in-class examples of the Game class
+
+[33mcommit 96d769af3dcda2177c030dcc63f0036dd950f805[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Sep 20 13:02:25 2022 -0500
+
+    Update html
+
+[33mcommit 3c947e4039cd12d67079fb44b0c588de4b1331fa[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Sep 18 21:12:28 2022 -0500
+
+    Update todo_list exercise
+
+[33mcommit 66e8f7e9ec663f3a38daa72c8056819dcdc9b639[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Sep 11 19:50:47 2022 -0500
+
+    Update project calculator
+
+[33mcommit 99c24420ceb49dcace9f27f50ad9ae8d7ba0d3ff[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Sep 6 16:00:01 2022 -0500
+
+    Start Board Game Record Keeper project
+
+[33mcommit fcee11c657f1cb3dba548de646c0c32c7935a6b4[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Sep 6 14:20:08 2022 -0500
+
+    Start game project
+
+[33mcommit 40614d5d146218e2395d6e9e5cdb6a0c3599dd2c[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Sep 6 12:08:03 2022 -0500
+
+    Update primes exercise
+
+[33mcommit b61141450a8f964e5b9c62c6da37e7a8f6a203be[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Sep 5 15:01:02 2022 -0500
+
+    Update requirements
+
+[33mcommit beaea23e7d3f4218e9e608845fe0d41a329f6e5d[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Mar 24 18:19:05 2022 -0500
+
+    Update tests
+
+[33mcommit 32fabc06d29b0246471aeebd00f82412b5daa050[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Nov 14 11:31:16 2021 -0600
+
+    Add Farm project
+
+[33mcommit e4333bcda61cdd7bcdda4061364b71d631035cb5[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Nov 9 09:05:20 2021 -0600
+
+    Update tests
+
+[33mcommit 408cbb931d782d2a7efad01aa5fe3f3a648c5c7f[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Wed Oct 27 17:23:41 2021 -0500
+
+    Update tests
+
+[33mcommit 2bac04fbef9f6be66f8dda375dfeb2af8372af30[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Oct 12 13:30:17 2021 -0500
+
+    Update API requirement
+
+[33mcommit a0e120663ebff090cb75868993a95cb51488ce6a[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Oct 5 13:34:35 2021 -0500
+
+    Update tests for the new version of playwright
+
+[33mcommit 077154bd66d7f3f6837d50baf35d63e635fbd340[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Sep 23 13:27:20 2021 -0500
+
+    Update playwright syntax
+
+[33mcommit 566779eea065d92d46c430b0169fa8fa5e303566[m
+Merge: 0fdca5e c78b65f
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Tue Sep 21 22:26:43 2021 -0500
+
+    Merge pull request #4 from LutherCS/dependabot/pip/notes/day9_deployment/jinja2-2.11.3
+    
+    Bump jinja2 from 2.10.3 to 2.11.3 in /notes/day9_deployment
+
+[33mcommit 0fdca5e406f1c95ebb11dee77992a617d719379c[m
+Merge: d405aa1 6ad42d4
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Tue Sep 21 22:26:33 2021 -0500
+
+    Merge pull request #6 from LutherCS/dependabot/pip/urllib3-1.26.5
+    
+    Bump urllib3 from 1.26.3 to 1.26.5
+
+[33mcommit 6ad42d43b4ed3a62328b9f7fce031670ee357508[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Sep 21 18:44:50 2021 +0000
+
+    Bump urllib3 from 1.26.3 to 1.26.5
+    
+    Bumps [urllib3](https://github.com/urllib3/urllib3) from 1.26.3 to 1.26.5.
+    - [Release notes](https://github.com/urllib3/urllib3/releases)
+    - [Changelog](https://github.com/urllib3/urllib3/blob/main/CHANGES.rst)
+    - [Commits](https://github.com/urllib3/urllib3/compare/1.26.3...1.26.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: urllib3
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit c78b65f7f13e20b8a8aecaefbac2a866badce136[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Sep 21 18:44:48 2021 +0000
+
+    Bump jinja2 from 2.10.3 to 2.11.3 in /notes/day9_deployment
+    
+    Bumps [jinja2](https://github.com/pallets/jinja) from 2.10.3 to 2.11.3.
+    - [Release notes](https://github.com/pallets/jinja/releases)
+    - [Changelog](https://github.com/pallets/jinja/blob/master/CHANGES.rst)
+    - [Commits](https://github.com/pallets/jinja/compare/2.10.3...2.11.3)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit d405aa1e0002c66296ff1fe2c25ce684eaa21e4c[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Sep 21 13:43:56 2021 -0500
+
+    Start using playwright's new API
+
+[33mcommit fb7cd3df3c2e527d2a634fedb15b185234e24ee6[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Sep 21 13:42:42 2021 -0500
+
+    Update versions of required packages
+
+[33mcommit 6169e5d9519f59566b9f918526605162adef401b[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Apr 27 11:34:41 2021 -0500
+
+    Add Auth exercise
+
+[33mcommit 104dd9f299efe9ed85eaa3427d09f4e335c88f18[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Apr 20 12:34:05 2021 -0500
+
+    Add project
+
+[33mcommit e1783fdb48da085eba79b8c3dca1480d815a2813[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Apr 13 12:28:38 2021 -0500
+
+    Update exercise geo
+
+[33mcommit a49221331e306f0a8c2312a25e639912a46ca4c3[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Apr 8 11:48:06 2021 -0500
+
+    Update description
+
+[33mcommit 6f15ee8fd09c967433c0293bdf88cc41113b2dab[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Mar 30 13:43:59 2021 -0500
+
+    Add clarification
+
+[33mcommit 24f3f91d7870382529aec367feb7b8b1582d26e7[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Mar 30 13:22:01 2021 -0500
+
+    Clarify confusion with tests
+
+[33mcommit 40ef469d8f98fade21b91be097d31826a1b81cea[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Mar 25 11:38:36 2021 -0500
+
+    Update description and tests
+
+[33mcommit 20dfced74ebe0f5c7e207b1c2a7835d328e4a4eb[m
+Merge: d392462 630264a
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Mar 16 12:46:34 2021 -0500
+
+    Merge branch 'main' of github.com:LutherCS/ip-class-pub into main
+
+[33mcommit d3924626e5f5b646b29581d2719b2d18fe168fa7[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Mar 16 12:43:26 2021 -0500
+
+    Update requirements
+
+[33mcommit 630264a67efe10644966938a323b5a3cc88b3467[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sat Mar 6 13:34:36 2021 -0600
+
+    Update exercise promises
+
+[33mcommit c6fb5d21e541d01c8c47fa2f8e33593d6540069a[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Mar 2 10:19:33 2021 -0600
+
+    Clarify requirements
+
+[33mcommit 24d4045fc47d219c90989aa19e945ea5962f7373[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Mar 2 10:15:13 2021 -0600
+
+    Clarify requirements
+
+[33mcommit 3936401a6146767a93ca7e6a9667d1fb47241955[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Feb 16 12:54:14 2021 -0600
+
+    Fix typo
+
+[33mcommit 6b47481b9b0468d7ca10b3a9010a86c728dae92e[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Feb 9 14:15:42 2021 -0600
+
+    Update versions
+
+[33mcommit a392b14d4a225116470e3dd3bad309e719ca93b7[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Feb 7 00:23:39 2021 -0600
+
+    Add examples of using CSS frameworks
+
+[33mcommit c7461bfa187d988e3b8fa64c548adbffbc5678e4[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Jan 26 10:10:50 2021 -0600
+
+    Add notes
+
+[33mcommit b00e27899de529c0d91fde63361beb65c3864c0d[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Jan 18 23:53:24 2021 -0600
+
+    Add Final project requirements
+
+[33mcommit 200a44fdc473bc971168f441f2cf3005598ca831[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Jan 18 23:52:14 2021 -0600
+
+    Add notes
+
+[33mcommit 676f5d98c16b04d5dc6c2e7f23e448bc78f856e3[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Jan 18 23:44:39 2021 -0600
+
+    Add project Store
+
+[33mcommit a153e9849ba6bc38ccf1d4e65275fdbedd5e73cb[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Jan 18 23:42:38 2021 -0600
+
+    Add exercise Security
+
+[33mcommit 334e36c63160b5c5eeb01870a1d175fb638dde93[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Jan 12 14:38:24 2021 -0600
+
+    Add Faker API notes
+
+[33mcommit 7dbde00f9cee2e00caf207132b352293e8ee4042[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Jan 12 14:38:08 2021 -0600
+
+    Add DB notes
+
+[33mcommit 280386c40e7c90b52ae90f85ccb40842b17d4cdc[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Jan 12 14:37:46 2021 -0600
+
+    Add Heroku deployment notes
+
+[33mcommit f1b0d1e0b6d6c8cf829c46d01280314373ca0116[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Jan 11 20:54:59 2021 -0600
+
+    Add Geo exercise
+
+[33mcommit 2f954250025cd29120d43ed0c8651b0b325326e1[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Jan 11 20:54:41 2021 -0600
+
+    Add DB notes
+
+[33mcommit 38b8d9be47368ed8e2b8442bc6a74cf0c7274647[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Jan 11 20:54:21 2021 -0600
+
+    Add Jokes API project
+
+[33mcommit 45c7a4832ba3ad6fe6abb6a64c796c512c98ee88[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Jan 11 20:54:05 2021 -0600
+
+    Add Faker API example
+
+[33mcommit 68deae6a1def86b12b6c93e4923ee71d1b71bb5a[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Jan 5 10:33:16 2021 -0600
+
+    Add Flask notes
+
+[33mcommit f14b83866b949d7ad8d34576e66ed7692d5729f4[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Jan 3 19:25:41 2021 -0600
+
+    Add notes on Jinja2 templates
+
+[33mcommit 76fedccb267f0d30e3ea7e45056d8620a6fa186e[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Jan 3 19:21:54 2021 -0600
+
+    Add basic Flask notes and tests
+
+[33mcommit db1e264932531e8da2f92f867b2319ac059d84f2[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Jan 3 17:47:40 2021 -0600
+
+    Add Jokes exercise
+
+[33mcommit ad5a7285c49c7b1baaed8be5fd19210c8a1669d5[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Jan 3 17:40:07 2021 -0600
+
+    Update requirements for Flask
+
+[33mcommit 1af2f2e253829b4f1207fd2680adb50409584e37[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Dec 21 17:50:06 2020 -0600
+
+    Add notes on VueJS
+
+[33mcommit e23d60bc42a7b6df007c1b549d3c1bdd9f9336dc[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Dec 17 09:53:17 2020 -0600
+
+    Add MVS notes
+
+[33mcommit 558b4cb34e4e0ec5e88db142c71e3d928accc9bc[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Dec 15 18:12:56 2020 -0600
+
+    Add notes on fetching data
+
+[33mcommit bb01d3025620789fc1c94ed60ed45b338ad98945[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Dec 15 16:52:12 2020 -0600
+
+    Update description and tests
+
+[33mcommit ead421b00f3b5143476b1f709ba0dd0856faab31[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Dec 15 02:47:05 2020 -0600
+
+    Add Midterm Mashup description
+
+[33mcommit 126198e9621761c09f6897a3df1bdc5d4aa3dd60[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Dec 15 02:43:43 2020 -0600
+
+    Add List project
+
+[33mcommit 25b4feeb5c4b81e52cab91723d9d120e5aefe4c1[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Dec 15 02:31:24 2020 -0600
+
+    Add notes on Callback and Promise
+
+[33mcommit 41542523b0f5bc71a1ac455df79d2b91e9458dfa[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Dec 15 02:25:28 2020 -0600
+
+    Add Promises exercise
+
+[33mcommit 85c47a2611f5f7a98474dcea6d0bfeea66962d73[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Dec 15 02:03:57 2020 -0600
+
+    Add local storage notes
+
+[33mcommit 4d1657cbb808f86a3ff5a9fbd2183399f9e24985[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Dec 15 02:03:10 2020 -0600
+
+    Add local storage notes
+
+[33mcommit f9d5357ebdf0cfc086dab087e64de70d4a3a76b2[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sat Dec 12 14:43:09 2020 -0600
+
+    Fix typo
+
+[33mcommit 1af45be4ca3143f8d3277d77575cdcd0a8fdda12[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sat Dec 12 14:01:59 2020 -0600
+
+    Add tests for the primes exercise
+
+[33mcommit 1a3ae9e355f38f50d8cbe686675d846076392f79[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sat Dec 12 01:34:59 2020 -0600
+
+    Add tests for the Calculator project
+
+[33mcommit 0b3fc42f12f623c98b5a6979336e6ae62d489e7e[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Dec 10 20:46:38 2020 -0600
+
+    Fix tests to match the released template
+
+[33mcommit c53b0f92e1319254c8eeed8f5b237e660e57bf91[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Dec 10 19:08:33 2020 -0600
+
+    Add tests for todo_list
+
+[33mcommit e8f2f4e55a8be694ff8e420b47f8ba70392e7520[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Dec 10 19:06:59 2020 -0600
+
+    Add notes on testing using Playwright
+
+[33mcommit 324c9b9ecd3c75e6a332617cc03fdcf696eb6c94[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Dec 10 10:51:44 2020 -0600
+
+    Add jQuery references
+
+[33mcommit ebe9ef23a9036bf9e66f66c4cc0ff6634049dde1[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Dec 10 09:59:08 2020 -0600
+
+    Add Setup notes
+
+[33mcommit e8120f559989d971196e0b2e74ad03a5ab5a6617[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Dec 10 09:50:09 2020 -0600
+
+    Add JS notes
+
+[33mcommit 1ed051b291f44de86562c294074df174e4cdf7b6[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Dec 10 00:44:56 2020 -0600
+
+    Add JavaScript OOP notes
+
+[33mcommit 0fbfa90eb70029a715c8d439ac75e604314b9c28[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Dec 7 23:37:04 2020 -0600
+
+    Add project 1: Calculator
+
+[33mcommit 54a4ba860894be2864bcad5368bd5d5466f8ccd0[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Dec 7 23:23:04 2020 -0600
+
+    Add exercise 2: TODO list
+
+[33mcommit 96f9426fdd09115576bb47a99c79270b88c87b21[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Dec 7 23:00:08 2020 -0600
+
+    Add GPA calculator
+
+[33mcommit 5e314132a7a5f38a28f21becf40cb2c7d9136bc9[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Dec 7 19:16:54 2020 -0600
+
+    Add notes on JS events
+
+[33mcommit 232c6b56f0b388018ee423daa5c93379fe039524[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Fri Dec 4 22:04:31 2020 -0600
+
+    Add demo
+
+[33mcommit e79db30a7eafd6fe4bf030c55d2333ae6eb96c73[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Wed Dec 2 23:45:20 2020 -0600
+
+    Add buttons
+
+[33mcommit 44738edeeec596ef59f9de9977114ffbcbf8520f[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Wed Dec 2 23:31:21 2020 -0600
+
+    Add notes on JavaScript and DOM
+
+[33mcommit 1a94830121da7639531dbdc9188fe4679a73b5d0[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Wed Dec 2 22:17:34 2020 -0600
+
+    Add notes on JavaScript basics
+
+[33mcommit 535f06c63910de52ae8e1671b76d737eba6043b6[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Dec 1 09:30:19 2020 -0600
+
+    Add Bootstrap notes
+
+[33mcommit db1a234317e543cc9b1d45dc3070663133cb4412[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Nov 30 22:55:06 2020 -0600
+
+    Add Exercise Primes
+
+[33mcommit a8d0a57df1d96b5b8d47815ae1cb488ea08f68db[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Nov 30 22:54:47 2020 -0600
+
+    Add Introduction notes
+
+[33mcommit d9389ad05d140e49b664131ed37028a6c9e1c394[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Nov 29 14:11:36 2020 -0600
+
+    Clean up before Fall 2020
+
+[33mcommit 7a0ad54ef3111f7de4b827b6bb69bf4709959022[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun May 3 16:08:52 2020 -0500
+
+    Fix secret key issue
+
+[33mcommit 883c09e62fdae8313017e7823d735918815af55a[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Apr 26 21:54:01 2020 -0500
+
+    Add Exercise 6
+
+[33mcommit d6adaef9751fd36d6a7f14547c7b4a3760ff020d[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Apr 26 21:46:53 2020 -0500
+
+    Add Flask login example
+
+[33mcommit 8f2c9fb31f1db4365c36fa073441e4b38b0a4d94[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Apr 26 15:26:03 2020 -0500
+
+    Add BeautifulSoupd example
+
+[33mcommit 97ff808abb944e21f22beac6eab182fee3ab40ce[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Fri Apr 24 11:40:50 2020 -0500
+
+    Add Final project description
+
+[33mcommit f28299ef2fda431427bd455ee946f6bc74be95bc[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Apr 19 14:36:11 2020 -0500
+
+    Add Project 4
+
+[33mcommit 587f6b1c361cfa8dbcec0186e0db07290f9517a7[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Apr 19 14:16:14 2020 -0500
+
+    Complete Covid-19 API example
+
+[33mcommit 8c29d0fd7483d4a25ce2f0dd9315fed032b83736[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Apr 19 13:32:39 2020 -0500
+
+    Start requests example
+
+[33mcommit 7beea9025c3117e8d6703e7b0d1cb3a8622bb716[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sun Apr 19 13:11:11 2020 -0500
+
+    Add SQLAlchemy notes
+
+[33mcommit 81d1b47c1fcea36c5da726271f6a21f85bb906e2[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sat Apr 18 11:58:14 2020 -0500
+
+    Add rubric
+
+[33mcommit 1116e18f8697bc67ebabd5832957861f2b90b468[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Apr 16 21:41:46 2020 -0500
+
+    Add SQLite3 world DB
+
+[33mcommit b6645b7d2b2c387a51d4c815f70bc7c6618679ee[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Apr 16 00:05:25 2020 -0500
+
+    Complete remote db example
+
+[33mcommit 1c7b54d0c0aeb709185e9b0f209f87b4f7e75d5d[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Wed Apr 15 23:12:02 2020 -0500
+
+    Start Remote DB notes
+
+[33mcommit 5d9285f03d55783a5a3955ea6cb9c20ba1c45a94[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Apr 14 01:08:47 2020 -0500
+
+    Add geography exercise
+
+[33mcommit 73661dd9fe58db49c20b17e1a8fcf6c948366477[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Apr 14 00:52:55 2020 -0500
+
+    CRUD with SQLite3
+
+[33mcommit 6793747bbdaa00fdba404a4888de0a587b61b2c4[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Apr 13 23:42:42 2020 -0500
+
+    Add data file
+
+[33mcommit 8431b24af2e203792e0510921b858432ed5fc00f[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Apr 13 23:42:20 2020 -0500
+
+    Add CRUD template
+
+[33mcommit 1ca71e5c238d17721ccf969652c78aeaeaa7f980[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Apr 9 00:26:21 2020 -0500
+
+    Add deployment application
+
+[33mcommit 1e213ae3d1043f7ff8fded10f4a5d5b0257d5164[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Wed Apr 8 23:09:48 2020 -0500
+
+    Add Jokes API project
+
+[33mcommit df3867e9828193f1170f0b906cccf9a2968a1169[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Apr 7 10:35:52 2020 -0500
+
+    Update description
+
+[33mcommit d482b909cfa8d4a561db70a00b50caa3ea873d18[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Apr 6 22:36:45 2020 -0500
+
+    Add Faker API notes
+
+[33mcommit 62b4f18e999b228aeb002a8bf767999d4d383f7e[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Apr 6 21:47:12 2020 -0500
+
+    Update Flask and Faker
+
+[33mcommit 1c215ce1573248e089ec1cadaa0762a77992db5a[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Apr 2 09:47:18 2020 -0500
+
+    Add Jokes exercise
+
+[33mcommit bef015d885645ae1c1e1a58d7edd98aadfb41620[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Apr 2 04:32:19 2020 -0500
+
+    Add Flask templates and methods
+
+[33mcommit 42bc9d154b1609e5d0699983b375edcfe8a5185a[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Mar 31 08:24:47 2020 -0500
+
+    Add Basic Flask notes
+
+[33mcommit df7c80c65f59566ab66ef797db78859801fdb39d[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Mar 16 16:59:27 2020 -0500
+
+    Add VueJS notes
+
+[33mcommit cea0dc56332c93aeed7190b701acfdeaba323862[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Wed Mar 11 16:27:20 2020 -0500
+
+    Add JS Promises notes
+
+[33mcommit 95c5204e6c69aa42868e124a083e7c279662ee45[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Wed Mar 11 15:40:57 2020 -0500
+
+    Add Numbers API exercise
+
+[33mcommit 9d243deca6361d5e30daaa1af6daffcb43a30bf2[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Wed Mar 11 14:56:28 2020 -0500
+
+    Add midterm mashup description
+
+[33mcommit 65542c228d0cf1465e617584280ce5037a6a1309[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Mar 10 08:31:30 2020 -0500
+
+    Add Promises example
+
+[33mcommit 75dee29cdddd062c0752fb4386b9cd183ca26fd9[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Mar 5 09:21:37 2020 -0600
+
+    Add Callback notes
+
+[33mcommit b7c403dbfd96a5f552b12db01a66a9abae5b1cce[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Mar 3 09:29:30 2020 -0600
+
+    Add JS Storage notes
+
+[33mcommit b0c884661fe5da2df4aa94f31d423322aab7bb8a[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Mar 3 07:56:40 2020 -0600
+
+    Add List project
+
+[33mcommit 75e25121acdff8b69d6a5c280903efddfaeb4083[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Feb 27 09:30:33 2020 -0600
+
+    Add JS MVC notes
+
+[33mcommit 8e776159708f6dab4c7dc95c36a7bc65b0fea0bf[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Feb 25 09:24:08 2020 -0600
+
+    Add JS OOP notes
+
+[33mcommit 8a7fd714e14f9b385a6c9e2be30cdad85822ed59[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Feb 25 07:55:12 2020 -0600
+
+    Add TODO exercise
+
+[33mcommit 8fa97697cbdb066e93cf5278beafb7ba68545ac6[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Feb 20 16:58:12 2020 -0600
+
+    Update class notes
+
+[33mcommit 17118257b29884ebd5aee9860803dbc43e560d76[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Feb 20 09:33:09 2020 -0600
+
+    Add GPA calculator starter code
+
+[33mcommit 38f2f3f1f29ed8e5fcf60ae22ad473a88b0e4121[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Wed Feb 19 11:33:33 2020 -0600
+
+    Fix typo
+
+[33mcommit 24ac01074feb7f243315cc04592cf8331b33db1d[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Feb 18 09:03:50 2020 -0600
+
+    Add Calculator project
+
+[33mcommit a81cd43b16c2a011e5633c66e3be2e11873a4d29[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Feb 18 08:53:26 2020 -0600
+
+    Add Bootstrap notes
+
+[33mcommit 5bec8323e47c343a832ad265763d834a2bd2b469[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Feb 13 09:31:35 2020 -0600
+
+    Add JavaScript events notes
+
+[33mcommit 5cbd46937c7b5b5ff7a72d9f9ccb48bb5b1c5193[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Wed Feb 12 21:37:54 2020 -0600
+
+    Add Exercise 1
+
+[33mcommit bbd8a055269593572d0fea6af3a344e158382333[m
+Merge: b4cd6ca 23b57cb
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Wed Feb 12 20:44:02 2020 -0600
+
+    Merge pull request #3 from LutherCS/dependabot/pip/typed-ast-1.3.2
+    
+    Bump typed-ast from 1.3.1 to 1.3.2
+
+[33mcommit b4cd6cad19193758ea0273436def03b0e8147666[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Feb 11 09:36:00 2020 -0600
+
+    Class 2: JS Basics
+
+[33mcommit e35f4519cfe9aacb529b1cdab68f2df5919cd641[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Feb 6 07:55:54 2020 -0600
+
+    Clean up before Spring
+
+[33mcommit 593250b273db4a16d1d4b1edb5f5be53ac921c9b[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Dec 2 14:02:03 2019 -0600
+
+    Update resources
+
+[33mcommit 23b57cb98fd4959b6bc424e7b1c727f40a5af187[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 2 19:26:13 2019 +0000
+
+    Bump typed-ast from 1.3.1 to 1.3.2
+    
+    Bumps [typed-ast](https://github.com/python/typed_ast) from 1.3.1 to 1.3.2.
+    - [Release notes](https://github.com/python/typed_ast/releases)
+    - [Changelog](https://github.com/python/typed_ast/blob/master/release_process.md)
+    - [Commits](https://github.com/python/typed_ast/compare/1.3.1...1.3.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit dedd5639a325d7255b3c5594d92538012aa0b44a[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 26 13:47:13 2019 -0600
+
+    Update notes
+
+[33mcommit 9bc4c3930a52fe3ddae404658d2fa2cfb75d42c2[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 26 13:07:10 2019 -0600
+
+    Update requirements
+
+[33mcommit fb15d1224f7ecfbe2612b9b593a4725427613d2d[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 26 12:23:52 2019 -0600
+
+    Add SQLAlchemy notes
+
+[33mcommit 9af6056caa839ca688210e0d5f52026868483ba7[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 26 12:19:25 2019 -0600
+
+    Update final project description
+
+[33mcommit 61d16606e3f423290e0f039010f89af60e2725f3[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 26 11:38:47 2019 -0600
+
+    Update final project description
+
+[33mcommit b61dc8b5412a097a832c6b907b0932f9d5ff2bbd[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 26 09:34:33 2019 -0600
+
+    Add final project description
+
+[33mcommit d6842e2d567a43f70ae881b4bb909de92dc8553a[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sat Nov 23 14:56:18 2019 -0600
+
+    Add simple caching
+
+[33mcommit 47375d3ac7a0f82ca3345477ca4f0e7b5c833869[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 21 14:09:11 2019 -0600
+
+    Update requirements
+
+[33mcommit 87ae995c78e6ac2a15303809fef480b2ea26abbd[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 21 14:09:00 2019 -0600
+
+    Add scraping notes
+
+[33mcommit a50461e68f3dc198de54bd9fe0d729ce910c59be[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 21 12:54:32 2019 -0600
+
+    Add scraping template
+
+[33mcommit 0880934fde17b82d6a0bddac06a2c98ab265463a[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 19 09:33:47 2019 -0600
+
+    Add login exercise
+
+[33mcommit b681a3d5ea7dc5abda3fda3cf423bc327d23e1c4[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 14 13:57:17 2019 -0600
+
+    Fix
+
+[33mcommit fce7367f54cdde7d4fe3aa296a6406e1db80a17f[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 14 13:54:50 2019 -0600
+
+    Fix
+
+[33mcommit 388f09f7e0045eb13d995d4969b9ed550d3e8652[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 14 13:27:31 2019 -0600
+
+    Add notes
+
+[33mcommit 60648cfcc25caf185df27e08ea9dce9d614d3345[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 14 13:24:43 2019 -0600
+
+    Final fix
+
+[33mcommit 3088f9c62183c1b15999f183a7e6a3f8126ee184[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 14 13:22:21 2019 -0600
+
+    Fix
+
+[33mcommit dad871b558c8bc77cf6b95727965af9680c9daa8[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 14 13:14:56 2019 -0600
+
+    Add deployment notes
+
+[33mcommit 9170d060f5fd52bc149228c9a2af4873c30395a0[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 12 12:40:49 2019 -0600
+
+    Add Jokes API project
+
+[33mcommit 24ebfff189b20a8bb89938327bb37a62363506e8[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 5 14:20:09 2019 -0600
+
+    Add dictionary files for Scrabble
+
+[33mcommit 6e65c701f9783b8bbd73e8db90995129bb624f2e[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 5 14:18:38 2019 -0600
+
+    Update Flask db notes
+
+[33mcommit c584370132954b07802792a83df14b81d180ce41[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 5 13:34:18 2019 -0600
+
+    Update sqlite notes
+
+[33mcommit a09c4b7febe07702dddefd9a786d3a10faaa3f62[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 5 11:22:06 2019 -0600
+
+    Add Flask Geo
+
+[33mcommit 557c914afe8cb7634949cdb68f2cbb010ab4ebb4[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 5 10:42:37 2019 -0600
+
+    Add DB notes
+
+[33mcommit f4876d4fd96f3be48ec0ad93b644f3d811e8262e[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 31 13:43:32 2019 -0500
+
+    Add requests notes
+
+[33mcommit 07efeb22330e0eaa7c8d250b0c88e46c0b62d4da[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 31 12:36:53 2019 -0500
+
+    Add Scrabble description
+
+[33mcommit 9480e79c6d05f72ca2161173e4eb395bc033d127[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 29 14:05:18 2019 -0500
+
+    Add tools
+
+[33mcommit b0d60534edfb630f9594678bc82026623e7776ea[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 29 13:55:55 2019 -0500
+
+    Update notes
+
+[33mcommit cc33c3eb2f1ea6cf65756ae99af36b441fe18319[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 29 13:24:20 2019 -0500
+
+    Complete templates notes
+
+[33mcommit 68d9012211963bb4b2fa7e027f406bb52fc70d1c[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 29 12:40:43 2019 -0500
+
+    Add notes on Flask method handling
+
+[33mcommit 5f58ed085e871fdb40ad225bc56fc70d80d899a8[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 29 12:38:39 2019 -0500
+
+    Add notes on Jinja2 templates
+
+[33mcommit 9365950f72ab22d213ce468279e14bfbd0c60e2c[m
+Merge: ca3ba4e b2f644a
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Oct 28 14:17:55 2019 -0500
+
+    Merge branch 'master' of github.com:LutherCS/ip-class-pub
+
+[33mcommit ca3ba4e90eddaf4b7376595dc4b682cd04d194e6[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Oct 28 14:17:42 2019 -0500
+
+    Add Python jokes template
+
+[33mcommit b2f644adedd307821ea539f1be1fafc8bf082b73[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 24 14:14:53 2019 -0500
+
+    Add Flask notes
+
+[33mcommit 2a8d10282a073403b00affde1cd092727c5d116f[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 24 13:16:29 2019 -0500
+
+    Add CGI example
+
+[33mcommit e4842f5324be0de6d2f1a07cf6ed1f1ff27ab2ec[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 15 15:57:08 2019 -0500
+
+    Update midterm rubric
+
+[33mcommit 0736ed907d0d37e6f74ea2df49c387606b463197[m
+Merge: 1856404 3a80490
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 3 14:15:28 2019 -0500
+
+    Update notes on Vue
+
+[33mcommit 1856404480b6d733985017d98ce280549aaa3167[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 3 14:14:47 2019 -0500
+
+    Update notes on Vue
+
+[33mcommit f8893c786c7a0304aafd225dd0c1143a141d0c2f[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 3 13:07:57 2019 -0500
+
+    Start Vue
+
+[33mcommit bf0e6ebb4ce16247ec6ce630a553989aacbc3e95[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 3 13:06:14 2019 -0500
+
+    Add Midterm description
+
+[33mcommit 3a804908ed5a938b8ea59d69bd5aeecb8665771c[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 3 12:31:58 2019 -0500
+
+    Add Vue notes
+
+[33mcommit 4f6c12a57d1bc13fa7153134993e1a06ba625dbb[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 3 12:28:18 2019 -0500
+
+    Add JS Promises exercise
+
+[33mcommit 5c4c73b5056145e43d94a9ba0cc6585465a9d712[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 1 14:17:35 2019 -0500
+
+    Update Promises notes
+
+[33mcommit 857fcea29796f2965e3611adecedf234e204bc96[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 1 12:40:33 2019 -0500
+
+    Start JS Promises notes
+
+[33mcommit a07ae53a0efc5996b6f57b969ab23b62f4ac1eb1[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 26 14:11:17 2019 -0500
+
+    Add MVC notes
+
+[33mcommit 82fded5a55f237bdcc3150ddff7bc62742ca61d7[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 26 14:11:05 2019 -0500
+
+    Add storage retrieval
+
+[33mcommit 06fb38018abcc1867887482f702fd80be6980ee7[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 26 12:41:13 2019 -0500
+
+    Add MVC notes
+
+[33mcommit aea93fa5a222a0422943e8beee7db85ee3181b29[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 24 14:14:13 2019 -0500
+
+    Update storage notes
+
+[33mcommit 7815dd3c163b13c7f666360dd97d8055125012c7[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 24 13:42:32 2019 -0500
+
+    Add OOP notes
+
+[33mcommit 8f62d77b6d13bb39fa1e2de5991dbfd0eb5f5a21[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 24 12:37:49 2019 -0500
+
+    Add OOP notes template
+
+[33mcommit e1edd193fe891b06face825c685b1ae35833d20f[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 24 12:36:33 2019 -0500
+
+    Add storage notes template
+
+[33mcommit 6505c020dfea768fed5c75781ed2bdc4b0e008a7[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 24 11:58:58 2019 -0500
+
+    Add Shopping List template
+
+[33mcommit 88fbe69a200164cc5991eb4e739ec2ed872cfdc3[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 19 14:23:24 2019 -0500
+
+    Include class notes
+
+[33mcommit ba9810cfa23f0bed532e295f0bb5a4efb5c99951[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 19 12:44:12 2019 -0500
+
+    Add notes
+
+[33mcommit a291288bcd9e06ec8a431898e1da89648beca3f8[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 19 12:21:56 2019 -0500
+
+    Add TODO exercise
+
+[33mcommit e21aa487046b8d7a2dc814ba9f501127aae6c415[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 17 16:08:00 2019 -0500
+
+    Add logical and bitwise operations
+
+[33mcommit 7e28dbcd8d13b3d42b38b81d40cd6575cda60130[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 17 13:58:28 2019 -0500
+
+    Add JS events notes
+
+[33mcommit d6b452d11a562b3489794973e19c2604b8ca85cc[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 17 12:40:19 2019 -0500
+
+    Update calculator description
+
+[33mcommit 6ab59edd6e9b0713820adcd95d504a4edc971af4[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 12 13:56:02 2019 -0500
+
+    Add Bootstrap notes
+
+[33mcommit 16c91bbd5148fc42919a21936cfa0d845a44ec0a[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 12 11:14:45 2019 -0500
+
+    Add calculator project
+
+[33mcommit cdc44c8deffcdca823509e8cea9fe67b82daaf67[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 10 14:30:37 2019 -0500
+
+    Update JS notes
+
+[33mcommit 268384ea4508ff987322b52ab6c559e9f10e431d[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 10 11:37:20 2019 -0500
+
+    Add JS Primes exercise
+
+[33mcommit 0783e60f7c7b71ce1ab274521ec4f623e27a2411[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 5 18:35:23 2019 -0500
+
+    Add Introduction
+
+[33mcommit 7673742939a00c41db82ccf834b862baee810ebe[m
+Merge: b74f209 9870032
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Thu Sep 5 11:21:21 2019 -0500
+
+    Merge pull request #2 from LutherCS/dependabot/pip/werkzeug-0.15.3
+    
+    Bump werkzeug from 0.15.2 to 0.15.3
+
+[33mcommit 9870032f635743229ad2fd1b87958a061deee6a8[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Sep 5 16:19:21 2019 +0000
+
+    Bump werkzeug from 0.15.2 to 0.15.3
+    
+    Bumps [werkzeug](https://github.com/pallets/werkzeug) from 0.15.2 to 0.15.3.
+    - [Release notes](https://github.com/pallets/werkzeug/releases)
+    - [Changelog](https://github.com/pallets/werkzeug/blob/master/CHANGES.rst)
+    - [Commits](https://github.com/pallets/werkzeug/compare/0.15.2...0.15.3)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b74f209d33c830ef6edecbeab6df722895338fa5[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Jul 30 16:42:49 2019 -0500
+
+    Clean up before the new semester
+
+[33mcommit 8417369bed7db19edbf40bc3b7c4571fe86acd02[m
+Merge: 538e324 49f9a24
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Jul 30 16:38:24 2019 -0500
+
+    Merge branch 'master' of github.com:LutherCS/ip-class-pub
+
+[33mcommit 538e324f261d1767809d7c1d58c67368ddf372c7[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Jul 30 16:37:55 2019 -0500
+
+    Clean up before the new semester
+
+[33mcommit 49f9a24975aadcfe22da9dd39e996af3150ecbf4[m
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Tue May 14 11:33:56 2019 -0500
+
+    Update final_project.md
+
+[33mcommit e0268bbe6689f8c167febf74adff14fb18cbdbeb[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Apr 29 15:16:50 2019 -0500
+
+    Add Final project description
+
+[33mcommit 404b54502185ee921d67aa13ede4ff034a975da6[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Sat Apr 27 15:09:51 2019 -0500
+
+    Add Geography exercise
+
+[33mcommit 5bae6da7207e1d5464e08f5be3824341fc1a3718[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Apr 25 12:27:31 2019 -0500
+
+    Update requirements
+
+[33mcommit 69d157d05989e4ac9b8cc081b55d907178fbbae7[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Apr 25 12:27:13 2019 -0500
+
+    Add DB notes
+
+[33mcommit be3f0f63d03f7458787dbc0815f2b54bd5d4653f[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Apr 23 12:18:20 2019 -0500
+
+    Update DB notes
+
+[33mcommit 60b5f29ee79e50e00835e6dc3d1b8c709dbea455[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Apr 23 10:55:54 2019 -0500
+
+    Add DB intro notes
+
+[33mcommit 8ce15e12147bf735e5ecb72f5eebe0fd74f5d03f[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Apr 18 12:09:42 2019 -0500
+
+    Update requirements
+
+[33mcommit c1aba683e0936a79584846c868f087ed48208f69[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Apr 18 12:08:51 2019 -0500
+
+    Add requests notes
+
+[33mcommit bf0fde7af9087ffef6e8aede6ea319671b1b485c[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Apr 18 09:39:11 2019 -0500
+
+    Add haveibeenpwnd project description
+
+[33mcommit 5b4d3ec686a7bb4f0755bdd04a95e8e9c01d2d19[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Apr 16 14:25:06 2019 -0500
+
+    Update Scrabble description
+
+[33mcommit 413bfe1d227b42d145f46a75d3708a2ed36f29fe[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Apr 16 14:21:29 2019 -0500
+
+    Add Jokes API description
+
+[33mcommit 2c60d4309bb587b95351c4190c95566ff58962de[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Apr 16 12:04:35 2019 -0500
+
+    Update requirements
+
+[33mcommit 8b5c2c05d42c25a657b39048d05998cd528fdb6c[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Apr 16 12:04:16 2019 -0500
+
+    Add Fake API
+
+[33mcommit b78a52cf66dc7afc7ab46b1fdb58bd7c67910b27[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Apr 11 12:25:19 2019 -0500
+
+    Update notes
+
+[33mcommit b975dcc59af4b8447431deab3c32ecb03f49fc28[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Apr 9 12:31:21 2019 -0500
+
+    Update Flask notes
+
+[33mcommit 183647afd08983bb9c95fe518c06183efd39cb63[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Apr 9 10:58:10 2019 -0500
+
+    Add project Scrabble
+
+[33mcommit 46da79c977a6b653eec9e34fb0c55740bc7d206f[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Apr 9 10:37:11 2019 -0500
+
+    Start notes on Flask basics
+
+[33mcommit 6cc4e0a88d8904393339fd1e6c1013e6944d06f9[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Apr 8 21:27:26 2019 -0500
+
+    Add exercise pyjokes
+
+[33mcommit aec2e1bd6bf42c384f451a12d79f77d7aca28d47[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Apr 8 21:17:06 2019 -0500
+
+    Add Flask requirements
+
+[33mcommit 799d9e8736bfda2026a9e68edc2ac34e9c50dfb2[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Apr 8 21:10:05 2019 -0500
+
+    Remove Pipfile before switching to venv
+
+[33mcommit 8559ea0a710f5e1a6acb6203d20abf8cb3ed0ddf[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Apr 2 14:08:41 2019 -0500
+
+    Add lecture notes
+
+[33mcommit 7c37faf0b24f95288d6c9655a6293d19c9a34c3c[m
+Merge: 07301be c2ce953
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Fri Mar 15 13:06:53 2019 -0500
+
+    Merge branch 'master' of github.com:LutherCS/ip-class-pub
+
+[33mcommit 07301bea78fbb0a75fa04347490193f63910d5d9[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Fri Mar 15 13:06:49 2019 -0500
+
+    Add exercise Numbers
+
+[33mcommit c2ce953efcb0c4991446ad575a9f3fc9f7f7e919[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Mar 14 12:30:25 2019 -0500
+
+    Add Vue notes
+
+[33mcommit 6739d76fbbc7ed2c61c676b557ebc5e13f9271bd[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Mar 14 11:12:56 2019 -0500
+
+    Update JS Promises notes
+
+[33mcommit d6df395d7a32e7773fb79262df644227270404ae[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Mar 12 13:31:07 2019 -0500
+
+    Start JS promises notes
+
+[33mcommit 41d44aca41b3ce268ba9e88142f623d3edb2d9e8[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Mar 7 12:31:08 2019 -0600
+
+    Add local storage notes
+
+[33mcommit 7db2c4c0c9e12f1918d8df5de3b1247c7fa72ed4[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Mar 7 09:38:07 2019 -0600
+
+    Add Midterm project description
+
+[33mcommit 307783d1b8e1501ce0c5ae4f1b86fe450a42790b[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Mar 7 09:32:24 2019 -0600
+
+    Add project Shopping List
+
+[33mcommit 9b430fd8268d5dad4b78215a48070a0c158b006c[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Mar 5 13:59:40 2019 -0600
+
+    Update JS MVC notes
+
+[33mcommit 191dc805346b32bbe6ab2d5d7ad2d4f5baaece4a[m
+Merge: 646a867 8d7e077
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Feb 26 16:00:11 2019 -0600
+
+    Merge branch 'master' of github.com:LutherCS/ip-class-pub
+
+[33mcommit 646a867e89cb50d2b8a6bb1f2ecc57f3fe81cab1[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Feb 26 15:59:54 2019 -0600
+
+    Start MVC notes
+
+[33mcommit 8d7e0770c01cef7be9280b49bd0a755e5a53e73e[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Feb 26 10:34:11 2019 -0600
+
+    Add exercise JS TODO List template
+
+[33mcommit 8d9c35347d88d79d3743adc24ca196508ac8d089[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Feb 21 12:33:44 2019 -0600
+
+    Add JS OOP notes
+
+[33mcommit 2c270d7f05cc4d6e3e84ca5f223d32a6f5850150[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Feb 21 11:25:52 2019 -0600
+
+    Fix typo
+
+[33mcommit 38edd081396e83dcef5a84bc76ede4e161dd80d3[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Feb 19 12:31:31 2019 -0600
+
+    Add JS buttons notes
+
+[33mcommit 12a31d91e3f260ad44b28a6c7dbf2c2a11b43020[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Feb 19 10:49:26 2019 -0600
+
+    Add Calculator project
+
+[33mcommit 4e6eef562512c633c7247162b873dc09d6e20e17[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Feb 18 16:11:56 2019 -0600
+
+    Add JS Primes exercise
+
+[33mcommit 0c2f68250872cc795b65df9e0a3f58cd5b09f2e3[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Feb 18 16:11:39 2019 -0600
+
+    Add Basic JS notes
+
+[33mcommit 27d1acb55a5f65edd3896fd6d80f7e674726e86d[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Feb 18 16:11:24 2019 -0600
+
+    Add Bootstrap notes
+
+[33mcommit 303763619307237a0f674a7fa36d24030a170368[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Feb 18 16:08:47 2019 -0600
+
+    Clean up for the new semester
+
+[33mcommit 90375e6718d2de3927f916d66f81c5cf21472a2d[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Tue Feb 12 00:14:51 2019 -0600
+
+    Add JS Promes exercise
+
+[33mcommit e21746af57afd95dc9deab457c451634f024702a[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Mon Feb 11 19:37:50 2019 -0600
+
+    Fix typo
+
+[33mcommit ee1dfdc083cf408015b10cfa701d2585010c9e94[m
+Author: Roman Yasinovskyy <yasinovskyy@gmail.com>
+Date:   Thu Feb 7 01:09:38 2019 -0600
+
+    Rename exercises
+
+[33mcommit 9fecd93ec6cd677e6342b624750517c21de2798b[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Dec 4 15:20:59 2018 -0600
+
+    Add notes on Flask and static content
+
+[33mcommit a46275ce5d0f8146e7166c8fd12073ff73561478[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Nov 26 15:35:07 2018 -0600
+
+    Update project description
+
+[33mcommit ef1e035284c7c4d6ebdd2612a4e7737b8d72cf38[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 20 11:48:02 2018 -0600
+
+    Add exercise 6
+
+[33mcommit e31d511504570d6fbe8e748f2bbe199b104157ad[m
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Sun Nov 18 13:30:38 2018 -0600
+
+    Update table layout
+
+[33mcommit ebc681d227b3acd201d5e958d1bf6ab0710b8b51[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Nov 17 13:11:13 2018 -0600
+
+    Update Vue notes
+
+[33mcommit 1e8b9f1437bf0e7333a62d1385a3f1dae5880cc7[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Fri Nov 16 09:51:17 2018 -0600
+
+    Update Final project description
+
+[33mcommit 0ba5af9dd388286aaaadeefbabfdbc5a864aa4be[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 15 22:16:27 2018 -0600
+
+    Add Final Project description
+
+[33mcommit e1b32a84d403b10ed7894cb730f520918130a4ff[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 15 14:16:57 2018 -0600
+
+    Add class notes
+
+[33mcommit 25c4a76c3a4ad8eba9f0e997db5866bcd8a652ca[m
+Merge: 172a65d 60109d9
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 15 09:26:13 2018 -0600
+
+    Merge branch 'master' of github.com:LutherCS/ip-class-pub
+
+[33mcommit 172a65da6aeaea68924d940afad142b2b51675c1[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 15 09:25:58 2018 -0600
+
+    Add Vue notes
+
+[33mcommit 60109d9ed23aeecaa3456f14c347d362ebff3c24[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 13 13:19:30 2018 -0600
+
+    Update exercise 5 requirements
+
+[33mcommit 17ff498c28db541a3dccdca0b704d076ff472953[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Nov 13 12:39:37 2018 -0600
+
+    Add Shopping List v3 description
+
+[33mcommit 8c8df0a63d4d571da07438ee5f7f18f32be48ed5[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 8 15:26:00 2018 -0600
+
+    Add dev dependencies
+
+[33mcommit 050d7ea3d2f6a2ec00932b138706dac18396873c[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 8 15:16:35 2018 -0600
+
+    Add Flask DB notes
+
+[33mcommit 684a778f8663e854ca2585d28f765a66e68c53b8[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 8 15:12:53 2018 -0600
+
+    Update dependencies
+
+[33mcommit 4f79f92458f980e91c7ace14952d3aafde61cec4[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 8 12:44:21 2018 -0600
+
+    Add Exercise 5
+
+[33mcommit 750c3c0bf38f04220e87444ec2ed0ea934fb4646[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 8 12:42:18 2018 -0600
+
+    Add Flask DB notes
+
+[33mcommit 560c2c54b62c4610235f2cd20c1ab3e25ae14f6f[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 1 13:18:35 2018 -0500
+
+    Add notes on requests
+
+[33mcommit ae9798e5ffd0babb2a775a7c3886e6dba3aff491[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 1 12:43:17 2018 -0500
+
+    Update .gitignore
+
+[33mcommit d455a5d1c8cf39affb574162a2590c344f4afa28[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 1 12:41:12 2018 -0500
+
+    Add API access example
+
+[33mcommit f99ef4c115be95e9784646b5b548ac166951b2d2[m
+Merge: f48d6b3 e10282a
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 1 12:30:38 2018 -0500
+
+    Merge branch 'master' of github.com:LutherCS/ip-class-pub
+
+[33mcommit f48d6b395209fb6b2de82c06293274bf8bd70ace[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Nov 1 12:29:48 2018 -0500
+
+    Update exercise 4 description
+
+[33mcommit e10282a904e9978973eb78484ba9893ca62bf54f[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 30 20:51:54 2018 -0500
+
+    Update Flask API client/server notes
+
+[33mcommit abc6b6da5b3a7a8406c231ea094f890e284e30fa[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 30 14:27:05 2018 -0500
+
+    Add Flask API notes
+
+[33mcommit aef484f3fbb978f030ac8159c6961f08661dfc87[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 30 12:41:41 2018 -0500
+
+    Add Scrabble project
+
+[33mcommit 6c306a79583b06864b5c6f59bc4e0cd318574826[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 25 14:08:07 2018 -0500
+
+    Update Pipfile
+
+[33mcommit 9ce437f21b806d57e73df14ab2ef1f433de643d3[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 25 14:06:06 2018 -0500
+
+    Add Flask methods notes
+
+[33mcommit 4e57df93630385c7642def85a65cb367aa38cfcf[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 25 14:05:45 2018 -0500
+
+    Add link to another tutorial
+
+[33mcommit fd1e59c6051a9cdf697dd9f8335e376644133e5e[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 25 12:37:51 2018 -0500
+
+    Start Flask Methods notes
+
+[33mcommit 4d5085247b615231b506d54324d07f3bdbc39834[m
+Merge: 4f0f692 e432c9e
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 25 12:34:47 2018 -0500
+
+    Merge branch 'master' of github.com:LutherCS/ip-class-pub
+
+[33mcommit 4f0f692774322b68dff168205802c37eb3b3ad6f[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 25 12:34:43 2018 -0500
+
+    Add Exercise 4
+
+[33mcommit e432c9eb9212c4888383656651b47216d0deb7c7[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 18 13:56:36 2018 -0500
+
+    Add Flask notes
+
+[33mcommit 28ff557429909d8bdcb15743a06058c1a1e11212[m
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Mon Oct 15 13:14:08 2018 -0500
+
+    Update shopping_list_v2.md
+
+[33mcommit b729b9c394864e29bd6325039b79eab38bac5c98[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 9 16:42:21 2018 -0500
+
+    Update Midterm description
+
+[33mcommit c54aec06c369582164f83ebe03265e3a869be244[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Oct 8 17:50:55 2018 -0500
+
+    Add Misterm Mashup description
+
+[33mcommit b9dfa023e7165052bad1b493874f53e263b17910[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Oct 4 13:15:13 2018 -0500
+
+    Add local storage example
+
+[33mcommit 7e4ddcc1257a8a2db3142ea6a461dbd67dca084e[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 2 14:22:22 2018 -0500
+
+    Complete notes on JS Promises
+
+[33mcommit 1385bca29fce67af11ac0f222842b29b9903d23e[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 2 12:39:04 2018 -0500
+
+    Add Exercise 3 description
+
+[33mcommit 6b755533d9d5a7f3e26501d7e329e6cbe34eabf5[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Oct 2 12:37:21 2018 -0500
+
+    Add notes on JS Promises
+
+[33mcommit 7b6b1241f08267ac1673a79392c6ccb5574b48e9[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 25 12:37:25 2018 -0500
+
+    Add MVC notes
+
+[33mcommit f68690c8a314c60de0efa60336196bdc96e3cf78[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 25 12:29:07 2018 -0500
+
+    Update Shopping List v2 description
+
+[33mcommit de90f8ef14771954696310d56036944fec46ba9c[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 25 12:07:04 2018 -0500
+
+    Add storage notes
+
+[33mcommit 981619220e3e96a776cc3af7ddaf86dfe48933ca[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 25 12:00:07 2018 -0500
+
+    Update Shopping List v2 description
+
+[33mcommit bce1ded31454e427bac32909536824ebdc8e418c[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Sep 22 14:56:18 2018 -0500
+
+    Update Shopping List v2 description
+
+[33mcommit 1fe94b76442855111e3425cc5dc5c3d119dd0cd6[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Sep 22 11:51:52 2018 -0500
+
+    Add Shoping List v2 description
+
+[33mcommit 0c972822a0815503f6bb1ad7dd58d9d8bad26218[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Sep 22 11:40:43 2018 -0500
+
+    Update Shopping List v1 description
+
+[33mcommit a33628c3ffef2f1c0e11c6b3d79ef2e6da6626d1[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Sep 22 11:31:51 2018 -0500
+
+    Add JS Events notes
+
+[33mcommit 715aca0e48b2408c8e70a5f1210556be4a765866[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Sep 22 11:05:16 2018 -0500
+
+    Update CGI notes
+
+[33mcommit bb8988137e50f451e526fde5bea2b9090e7173d9[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Sep 22 11:04:07 2018 -0500
+
+    Update JS notes
+
+[33mcommit b69e7f77b7720d16f9fe7bab6559bb31cad707ec[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Sep 22 09:26:51 2018 -0500
+
+    Update JS OOP notes
+
+[33mcommit dc060148dd4db292aad98bef572b1514ea909f7d[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Sep 22 09:22:46 2018 -0500
+
+    Update Introduction
+
+[33mcommit b203bdef32ca245087ffd201865c8554ddd0acd4[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Sep 22 09:21:52 2018 -0500
+
+    Update JS Basics example
+
+[33mcommit a3015368e430e40c257a63feb7ba2d21898a0bba[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Sep 22 09:09:12 2018 -0500
+
+    Update Bootstrap example
+
+[33mcommit 0ebb5b68ec352dc30872a7e6ff180fc038e4906e[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sat Sep 22 08:54:00 2018 -0500
+
+    Add exercise 1 description
+
+[33mcommit 1489ec3998b8820a754da546d0dd76af577047ec[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 20 12:41:32 2018 -0500
+
+    Change repository structure
+
+[33mcommit c3f64692fe0797c7d7a51f827a5a17176e7f5b79[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 20 12:39:06 2018 -0500
+
+    Move Shopping List project
+
+[33mcommit da23a2e6d2a9c044f905e26176a9324cfa7062f6[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 20 12:38:02 2018 -0500
+
+    Add Exercise 2 description
+
+[33mcommit 5fe04bfc57cfd266df5f2797bd399c9b8bf1bc4d[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 18 13:58:54 2018 -0500
+
+    JS OOP example
+
+[33mcommit 75d269fd113b9d7319331084d08e4d418b3df5c7[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 13 14:19:23 2018 -0500
+
+    Add prime table example
+
+[33mcommit 9ca34e99e7528d29f7cce8bec9781b3bf2fe4a3a[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 13 12:37:53 2018 -0500
+
+    Add shopping list design png
+
+[33mcommit aaa18d2beaef366b2efd9e3c0ca01f1ef878e493[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 11 17:05:07 2018 -0500
+
+    Add Bootstrap example
+
+[33mcommit a981d75b832e113e61a7e5ccb4e9de908afeb80d[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Mon Sep 10 15:08:15 2018 -0500
+
+    Fix typo
+
+[33mcommit 8eca8d1dc66b60626c221a359068737b19c87bec[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Fri Sep 7 16:13:12 2018 -0500
+
+    Fix html typo
+
+[33mcommit 533f928fdcbdfd1f904af4ed61f272cb60d44288[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Thu Sep 6 17:10:19 2018 -0500
+
+    Add class notes on JavaScript
+
+[33mcommit 623ea6c5a2ba542574ecfb4f16020bc7923a0c1f[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Wed Sep 5 10:15:21 2018 -0500
+
+    Simple web app using CGI
+
+[33mcommit b18ba416bf4046292e74f2b7e3960a767404f659[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 4 21:16:18 2018 -0500
+
+    Add .gitignore
+
+[33mcommit b64bc9b35aeea11aa05962631d34ce491b68a876[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Tue Sep 4 21:11:37 2018 -0500
+
+    Add Modern Web Apps and JS setup
+
+[33mcommit c3acc84c4ea0ddbd7424f3095d640d36af89ccd3[m
+Author: Roman Yasinovskyy <yasiro01@luther.edu>
+Date:   Sun Sep 2 16:07:21 2018 -0500
+
+    Add Intro notes
+
+[33mcommit 9bdb45a07d7e92f395a9cfbfaf5d7ae1975a315a[m
+Author: Roman Yasinovskyy <yasinovskyy@users.noreply.github.com>
+Date:   Thu Aug 30 11:53:44 2018 -0500
+
+    Initial commit

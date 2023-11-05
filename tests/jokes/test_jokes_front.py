@@ -35,6 +35,7 @@ def test_click_button(page: Page):
     page.set_default_timeout(TIMEOUT)
     page.goto("http://localhost:5000/")
     page.click("#btnAmuse")
+    print(len(page.query_selector_all("#jokes > p")))
     assert len(page.query_selector_all("#jokes > p")) == 1
 
 
