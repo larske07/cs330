@@ -18,7 +18,7 @@ async function getData() {
 
     let jokes = await fetchData(url);
 
-    displayData(jokes.data);
+    displayData(jokes.jokes);
 }
 
 function displayData(data) {
