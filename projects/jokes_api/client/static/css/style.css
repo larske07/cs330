@@ -1,0 +1,37 @@
+h2 {
+    background-color: #ff01ee3d;
+    color: #fff;
+    padding: 20px; 
+  }
+  
+.btn-joke {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.small-padding {
+  padding: 8px;
+}
+
+.pborder {
+  padding: 3px;
+  border-style: groove;
+  border-width: 3px;
+  border-block-color: #ff01ee3d;
+}
+
+.joke {
+  padding: 10px;
+  margin: 9px;
+  color: #ff01ee;
+  border-style: groove;
+  border-width: 3px;
+  border-block-color: #ff01ee3d;
+}
+.number {
+  font-weight: bold; 
+}
+
+li {
+  margin-bottom: 10px;
+}

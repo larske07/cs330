@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 @app.route("/api/v1/jokes/<lang>/<category>/<int:num>")
 def send_joke(lang, category, num) :
-    resp = Response(json.dumps({"data": get_joke(lang, category, num)}))
+    resp = Response(json.dumps({"jokes": get_joke(lang, category, num)}))
     resp.headers["Access-Control-Allow-Origin"] = "*"
     resp.headers["Content-Type"] = "application/json"
     return resp
