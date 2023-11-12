@@ -1,12 +1,13 @@
 <html>
   <head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bulma.min.css') }}">
   </head>
   <body>
     <div>
-      <div>
-        <div><a href="/country">Country info</a></div>
-        <div><a href="/region">Region info</a></div>
-        <div><a href="/continent">Continent info</a></div>
+      <div class="columns">
+        <div class="column"><a href="/country">Country info</a></div>
+        <div class="column"><a href="/region">Region info</a></div>
+        <div class="column"><a href="/continent">Continent info</a></div>
       </div>
     </div>
     {% block content %} {% endblock %}

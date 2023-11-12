@@ -1,1 +1,40 @@
 {% extends "base.html" %}
+
+{% block content %}
+
+<h1 class="title">Regions</h1>
+{% if form %}
+    <p>Select a region below</p>
+    <form method="POST">
+        <select name="region">
+            {% for tuple in regions %}
+            {% for region in tuple %}
+            <option value="{{ region }}">{{ region }}</option>
+            {% endfor %}
+            {% endfor %}
+        </select><br/>
+        <input type="submit" class="button is-primary" value="submit"/>
+    </form>
+{% endif %}
+{% if not form %}
+    <table class="table">
+        <tr>
+            <th>Country</th>
+            <th>Continent</th>
+            <th>Region</th>
+            <th>Capital</th>
+            <th>Surface Area</th>
+            <th>Population</th>
+            <th>Government Form</th>
+            <th>Head of State</th>
+        </tr>
+        {% for tuple in result %}
+        <tr>
+            {% for data in tuple %}
+            <td>{{data}}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+{% endif %}
+{% endblock %}
