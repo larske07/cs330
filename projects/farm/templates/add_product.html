@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="hero is-primary">
+  <h1>Add New Product</h1>
+  <b><a href="/admin">Exit Without Submitting</a></b>
+</section>
+
+<section class="hero is-warning">
+  <div class="hero-body">
+    <form method="POST">
+      <p>Name:</p>
+      <input name="name" placeholder="Name">
+      <p>Desc:</p>
+      <input name="description" placeholder="Description">
+      <p>Price:</p>
+      <input name="price" placeholder="Price">
+      <p>Image:</p>
+      <input name="image" placeholder="Image URL">
+      
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+</section>
+{% endblock %}
