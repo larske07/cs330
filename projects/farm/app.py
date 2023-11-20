@@ -1,4 +1,4 @@
-from flask import redirect, render_template, request, url_for, Flask
+from flask import redirect, render_template, request, url_for
 from config import app, db
 from models import Product, CartItem
 
