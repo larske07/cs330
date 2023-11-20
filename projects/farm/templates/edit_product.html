@@ -9,20 +9,20 @@
 
 <section class="hero is-warning">
   <div class="hero-body">
-    <form method="POST">
+    <form class="form" method="POST">
 
       <div class="form-group">
-        <label>Name</label>
+        <label>Name:</label>
         <input class="input" type="text" name="name" value="{{ product.name }}" class="form-control">
       </div>
 
       <div class="form-group">  
-        <label>Description</label>
-        <textarea class="textarea" name="description" class="form-control">{{ product.description }}</textarea>
+        <label>Desc:</label>
+        <textarea class="textarea form-control" name="description">{{ product.description }}</textarea>
       </div>
 
       <div class="form-group">
-        <label>Price</label>
+        <label>Price:</label>
         <input class="input" type="number" name="price" value="{{ product.price }}" step="0.01" class="form-control">
       </div>
 
