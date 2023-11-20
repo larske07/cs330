@@ -3,7 +3,7 @@
 {% block content %}
 <section class="hero is-primary">
   <h1>Shopping Cart</h1>
-  <b><a href="/">Back to Shopping</a></b>
+  <button class="button is-light" onclick="location.href='/'">Back to Shopping</button>
 </section>
 
 {% for item in items %}
@@ -14,7 +14,9 @@
         {{item[0].quantity}} x {{item[1].name}}  
       </div>
       <div class="column">
-        <b><a href="{{url_for('remove_from_cart', item_id=item[0].c_id)}}">Remove</a></b>
+        <button class="button is-danger">
+          <b><a href="{{url_for('remove_from_cart', item_id=item[0].c_id)}}">Remove</a></b>
+        </button>
       </div>
     </div> 
   </div>

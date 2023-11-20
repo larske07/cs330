@@ -3,7 +3,7 @@
 {% block content %}
 <section class="hero is-primary">
   <h1>Inventory</h1>
-  <b><a href="/">Back to Customer View</a></b>
+  <button class="button is-light" onclick="location.href='/'">Back to Customer View</button>
 </section>
 
 {% for product in products %}
@@ -11,7 +11,7 @@
   <div class="hero-body">
     <div class="columns">
       <div class="column">
-        <b>{{product.name}}</b> 
+        <h1>{{product.name}}</h1> 
       </div>
       <div class="column">
         <a href="{{url_for('edit_product', product_id=product.p_id)}}">Edit</a>

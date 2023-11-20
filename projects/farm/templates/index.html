@@ -3,7 +3,7 @@
 {% block content %}
 <section class="hero is-primary">
   <h1 class="text">Farm to Table</h1>
-  <b><a href="/cart">My Cart</a></b>
+  <button class="button is-light" onclick="location.href='/cart'">My Cart</button>
 </section>
 
 <h2 class="text">Available Products:</h2>
@@ -24,7 +24,9 @@
           <p>{{product.description}}</p>
         </div>
         <div class="column">
-          <b><a href="{{url_for('add_to_cart', product_id=product.p_id)}}">Add to Cart</a></b>
+          <button class="button is-success">
+            <b><a href="{{url_for('add_to_cart', product_id=product.p_id)}}">Add to Cart</a></b>
+          </button>
         </div>
       </div>
     </div>

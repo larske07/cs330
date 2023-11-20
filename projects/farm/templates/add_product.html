@@ -3,21 +3,32 @@
 {% block content %}
 <section class="hero is-primary">
   <h1>Add New Product</h1>
-  <b><a href="/admin">Exit Without Submitting</a></b>
+  <button class="button is-light" onclick="location.href='/admin'">Exit Without Submitting</button>
 </section>
 
 <section class="hero is-warning">
   <div class="hero-body">
     <form method="POST">
-      <p>Name:</p>
-      <input name="name" placeholder="Name">
-      <p>Desc:</p>
-      <input name="description" placeholder="Description">
-      <p>Price:</p>
-      <input name="price" placeholder="Price">
-      <p>Image:</p>
-      <input name="image" placeholder="Image URL">
+      <div class="form-group">
+        <label>Name:</label>
+        <input name="name" placeholder="Name">
+      </div>
       
+      <div class="form-group">
+        <label>Desc:</label>
+        <input name="description" placeholder="Description">
+      </div>
+
+      <div class="form-group">
+        <label>Price:</label>
+        <input name="price" placeholder="Price">
+      </div>
+
+      <div class="form-group">
+        <label>Image:</label>
+        <input name="image" placeholder="Image URL">
+      </div>  
+
       <button type="submit">Submit</button>
     </form>
   </div>
