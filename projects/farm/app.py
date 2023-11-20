@@ -1,6 +1,8 @@
-from flask import redirect, render_template, request, url_for
+from flask import redirect, render_template, request, url_for, Flask
 from config import app, db
 from models import Product, CartItem
+
+
 
 # index view
 @app.route('/')
